@@ -1,0 +1,9 @@
+C:\IT\Deployment\Deployment\bin\Debug\Deployment.exe.config
+C:\IT\Deployment\Deployment\bin\Debug\Deployment.exe
+C:\IT\Deployment\Deployment\bin\Debug\Deployment.pdb
+C:\IT\Deployment\Deployment\obj\Debug\Deployment.csprojAssemblyReference.cache
+C:\IT\Deployment\Deployment\obj\Debug\Deployment.Form1.resources
+C:\IT\Deployment\Deployment\obj\Debug\Deployment.Properties.Resources.resources
+C:\IT\Deployment\Deployment\obj\Debug\Deployment.csproj.GenerateResource.cache
+C:\IT\Deployment\Deployment\obj\Debug\Deployment.exe
+C:\IT\Deployment\Deployment\obj\Debug\Deployment.pdb
